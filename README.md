@@ -109,7 +109,7 @@ Flickr8K-CN
 
 ## 部署思路
 
-在你转为ONNX文件后，只需要在我们的代码放入以下有个文件即可部署。
+在你转为ONNX文件后，只需要在我们的代码放入以下两个文件即可部署。
 
 ```python
 img_json = '/root/autodl-tmp/Chinese-CLIP/cn_clip/Text2Image_deploy/data/train_imgs.img_feat.jsonl'
