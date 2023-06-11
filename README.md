@@ -1,5 +1,5 @@
 # 基于Clip、Chinese-Clip搭建的文搜图Demo
-![这是图片](./image/title.png"Magic Gardens")
+![这是图片](image/title.png)
 ## 数据处理(构建自己的数据集)
 
 由于Chinese-clip库并没有教程构建自己的数据集，这里为了用Chinese-clip库进行微调，将自己构建的数据进行了对齐，其中
